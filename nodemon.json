@@ -1,0 +1,5 @@
+{
+    "execMac": {
+        "js": "sucrase-node"
+    }
+}
